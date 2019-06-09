@@ -21,4 +21,4 @@ Los módulos que componen la interfáz del programa son:
 		Nombre del archivo principal: crud.py 
 		
 Los módulos que comoponen las funcionalidades del programa son:
-⦁		Funciones.
+_ Funciones.
