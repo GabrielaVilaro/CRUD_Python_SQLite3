@@ -1,6 +1,6 @@
 # Proyecto_Crud_Python
 
-CRUD bàsico con interfaz Tkinter, BBDD SQLite3 hecho en Python.
+CRUD bàsico con interfaz Tkinter, BBDD SQLite3 hecho en Python 3.
 
 Prpósito del sistema.
 
