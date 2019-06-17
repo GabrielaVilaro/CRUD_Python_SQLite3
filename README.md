@@ -22,3 +22,5 @@ Los módulos que componen la interfáz del programa son:
 		
 Los módulos que comoponen las funcionalidades del programa son:
 _ Funciones.
+
+<a href="https://ibb.co/VDKbJxz"><img src="https://i.ibb.co/mtxdb02/2019-06-09-11.png" alt="2019-06-09-11" border="0"></a>
